@@ -6,22 +6,23 @@
   "typings": "./index.d.ts",
   "author": "Rafael Caferati",
   "license": "MIT",
-  "homepage": "https://github.com/rcaferati/react-native-really-awesome-button",
+  "homepage": "https://github.com/umangmaurya/react-native-really-awesome-button",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcaferati/react-native-really-awesome-button"
+    "url": "https://github.com/umangmaurya/react-native-really-awesome-button"
   },
   "bugs": {
-    "url": "https://github.com/rcaferati/react-native-really-awesome-button/issues"
+    "url": "https://github.com/umangmaurya/react-native-really-awesome-button/issues"
   },
   "keywords": [
     "button",
     "react-native",
     "animated button",
     "awesome button",
+    "react-native progress button",
     "really awesome button",
     "3d button",
     "react-component",
